@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enjoyablee&show_icons=true&locale=en&layout=compact" alt="enjoyablee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enjoyablee&show_icons=true&locale=en" alt="enjoyablee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyablee&" alt="enjoyablee" /></p>
