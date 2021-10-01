@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **me@enjoyablee.xyz**
-
-- ⚡ Fun fact **69**
+- 📫 How to reach me [hello@enjoyablee.me](mailto:hello@enjoyablee.me?subject=Hey!%20wave)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
